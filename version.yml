@@ -1,0 +1,3 @@
+version: 0.0.2
+name: flask-seed
+main: app.py
